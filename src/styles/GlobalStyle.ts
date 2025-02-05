@@ -12,7 +12,7 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     body {
-        background-image: url(./src/assets/images/bg-repeat.jpg);
+        background-image: url(src/assets/images/bg-repeat.jpg);
         background-repeat: repeat-x;
         background-size: contain;
         font-family: "Roboto", sans-serif;
