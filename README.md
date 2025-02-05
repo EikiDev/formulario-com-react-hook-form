@@ -11,7 +11,7 @@ Este é um formulário feito a partir de um Figma oferecido pelo curso DevQuest 
 
 ### Captura de tela
 
-![Form capture gif](src/assets/images/github/form-capture.gif)
+![Form capture gif](src/assets/github/form-capture.gif)
 
 ## Dificuldades
 
